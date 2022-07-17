@@ -1,0 +1,1 @@
+{"id":"96b6d96c-14d5-4f95-afbc-ccf7b0b47356","space":26761,"runtime":"python3.9","name":"Dota2ProTracker","path":"aw046w","project":"c0c2zuqb","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","sqlalchemy","bs4","requests"],"envs":null,"public":true,"log_level":"debug","cron":""}
