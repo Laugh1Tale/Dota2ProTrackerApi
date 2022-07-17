@@ -6,5 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-Dota2ProTracker/.deta/
-Dota2ProTracker/__pycache__/
+**/.deta/
+**/__pycache__/
